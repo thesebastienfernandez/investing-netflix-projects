@@ -6,7 +6,7 @@ Analyser le catalogue Netflix pour dégager des insights sur la représentation 
 
 ## 📊 Compétences mobilisées
 - Visualisation avec matplotlib
-- Utilisation des numpy arrays
+- Utilisation des arrays
 - Sélection des données 
 
 ## 🔍 Résultats clés
