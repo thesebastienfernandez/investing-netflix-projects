@@ -15,5 +15,5 @@ Analyser le catalogue Netflix pour dégager des insights sur la représentation 
 - Dans les films des années 90, il y a exactement 7 films d'action dont la durée est strictement inférieure à 1h30
 
 ## 📁 Contenu du dépôt
-- `netflix_analysis.ipynb` : Notebook principal !!
+- `main.py` : code python
 - `netflix_data.csv` : Jeu de données source
